@@ -23,4 +23,9 @@ class Pages extends CI_Controller {
 		$data['main_content'] = 'pages/login';
 		$this->load->view("includes/template",$data);
 	}
+	public function main()
+	{
+		$data['main_content'] = 'pages/main';
+		$this->load->view("includes/template",$data);
+	}
 }
