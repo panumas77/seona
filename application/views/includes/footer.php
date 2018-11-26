@@ -1,16 +1,13 @@
   
-  </div> <!-- End Container -->
+    </main>
 
 <!-- Footer -->
-<footer class="page-footer font-small pt-4">
-
-    <!-- Copyright -->
-    <div class="footer-copyright text-center py-5">© 2018 Copyright: Max Wiriyachaikit, Email :
-      <a href="mailto:panumas.wi@gmail.com"> panumas.wi@gmail.com</a>
-    </div>
-    <!-- Copyright -->
-
-  </footer>
+<footer class="footer">
+      <div class="container">
+        <span class="text-muted">© 2018 Copyright: Max Wiriyachaikit, Email :
+      <a href="mailto:panumas.wi@gmail.com"> panumas.wi@gmail.com</a></span>
+      </div>
+</footer>
   <!-- Footer -->
 
     <!-- Loading JavaScript -->
